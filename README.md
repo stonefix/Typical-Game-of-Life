@@ -1,2 +1,2 @@
 # Typical-Game-of-Life
-Typical description
+This "Conway's Game of Life" swing based implementation.
