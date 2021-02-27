@@ -1,3 +1,4 @@
+package com.life.org;
 
 public class GameOfLife {
 

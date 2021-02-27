@@ -1,3 +1,9 @@
+package com.life.org;
+
+import com.life.org.CellMouseListener;
+import com.life.org.GameOfLife;
+import com.life.org.GameOfLifeFrame;
+import com.life.org.GameOfLifeView;
 
 import javax.swing.*;
 

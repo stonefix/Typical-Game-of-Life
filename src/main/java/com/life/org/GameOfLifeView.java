@@ -1,3 +1,7 @@
+package com.life.org;
+
+import com.life.org.GameOfLife;
+
 import java.awt.Color;
 import java.awt.Graphics;
 import javax.swing.JComponent;
@@ -10,7 +14,7 @@ public class GameOfLifeView extends JComponent {
     private static final Color LIVE_COLOR = Color.GREEN;
     private static final Color DEAD_COLOR = Color.GRAY;
 
-    private GameOfLife gameOfLife;
+    public GameOfLife gameOfLife;
 
     public GameOfLifeView(GameOfLife gameOfLife) {
         this.gameOfLife = gameOfLife;

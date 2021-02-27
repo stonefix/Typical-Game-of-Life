@@ -1,3 +1,4 @@
+package com.life.org;
 
 import java.awt.event.MouseEvent;
 
